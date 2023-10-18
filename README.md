@@ -1,4 +1,4 @@
 # Homeworks
 ### https://kyakanina.github.io/Homeworks/
-### https://kyakanina.github.io/Homeworks/1.2_passport.html
-### https://kyakanina.github.io/Homeworks/folder/Золотая%нить.html.html
+### https://kyakanina.github.io/Homeworks/1.2_passport.html.html
+
