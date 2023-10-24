@@ -2,7 +2,7 @@
 ### https://kyakanina.github.io/Homeworks/
 ## Task 1. 010_typography
 ### https://kyakanina.github.io/Homeworks/folder/1.1site.html
-### https://kyakanina.github.io/Homeworks/1.2_passport.html
+### https://kyakanina.github.io/Homeworks/1.2passport.html
 ### https://kyakanina.github.io/Homeworks/1.3passport.html
 ## Task 2. 020_head
 ## Task 3. 030_images
