@@ -9,6 +9,7 @@
 ### https://kyakanina.github.io/Homeworks/folder/030images.html
 ## Task 4. 040_tables
 ### 1.  https://kyakanina.github.io/Homeworks/folder/table.html
+### 2. https://kyakanina.github.io/Homeworks/folder/table1.html
 ## Task 5. 050_forms
 ## Task 6. 060_anchors
 ### https://kyakanina.github.io/Homeworks/folder1/anchors.html
