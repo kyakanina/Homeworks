@@ -11,5 +11,6 @@
 ### 1.  https://kyakanina.github.io/Homeworks/folder/table.html
 ### 2. https://kyakanina.github.io/Homeworks/folder/table1.html
 ## Task 5. 050_forms
+### 2. https://kyakanina.github.io/Homeworks/folder/forms.html
 ## Task 6. 060_anchors
 ### https://kyakanina.github.io/Homeworks/folder1/anchors.html
