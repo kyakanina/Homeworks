@@ -6,7 +6,7 @@
 ### https://kyakanina.github.io/Homeworks/1.3passport.html
 ## Task 2. 020_head
 ## Task 3. 030_images
-### https://kyakanina.github.io/Homeworks/folder/030images.html
+### https://kyakanina.github.io/Homeworks/folder/images.html
 ## Task 4. 040_tables
 ### 1.  https://kyakanina.github.io/Homeworks/folder/table.html
 ### 2. https://kyakanina.github.io/Homeworks/folder/table1.html
