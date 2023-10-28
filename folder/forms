@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Формы</title>
+</head>
+<body>
+<form action="https://www.bing.com/search?" id="UserEnter" name="UserEnter" target="_blank">
+    <table align="center" height="635" width="33%" border="2" cellpadding="4" cellspacing="0">
+    <tr align="left" valign="bottom" height="95">
+     <td colspan="6">
+         <p>Паспорт выдан: <input type="Text" size=20 value="ГУ МВД РОССИИ"></p>
+     </td>
+     <td></td>
+   </tr>
+
+    <tr align="center" valign="bottom" height="85">
+        <td align="right"  width="180"><p>Дата: <input type="date" value='2020-02-01'</p></td>
+     <td colspan="5"><p>Код подразделения: <input type="Text" size=20 value="000-000"></p></td>
+   </tr>
+
+    <tr align="center" valign="bottom" height="245">
+     <td></td>
+     <td colspan="5"><p>Фамилия:<input type="Text" size=20 value=""></p></td>
+   </tr>
+
+    <tr>
+     <td colspan="1" rowspan="10"><img src="../img/cat.jpeg" width="170" height="180"></td>
+   </tr>
+
+    <tr align="center" valign="bottom" height="40">
+     <td>Имя:</td>
+     <td colspan="5"><p><input type="Text" size=20 value=""></p></td>
+   </tr>
+
+    <tr align="center" valign="bottom" height="5">
+     <td>Отчество:</td>
+     <td colspan="10"><p><input type="Text" size=20 value=""></p></td>
+   </tr>
+
+    <tr align="left" valign="bottom" height="15" width="50">
+     <td><p>Пол:
+        <br><nobr><input type="Radio" name="gender" value="male" checked>мужской
+        <input type="Radio" name="gender" value="female">женский</nobr>
+    </p>
+     </td>
+     <td align="center">1<p>Дата рождения: <br><input type="date" value='2000-01-01'</p></td>
+   </tr>
+
+    <tr align="bottom" valign="bottom" height="10">
+     <td>Место рождения:</td>
+     <td align="bottom"><p>
+       <br><select name="place">
+            <OPTION value="Россия">Россия</OPTION>
+            <OPTION value="Азербайджан">Азербайджан</OPTION>
+          <OPTION value="Бангладеш">Бангладеш</OPTION>
+          <OPTION value="Германия">Германия</OPTION>
+          <OPTION value="Казахстан">Казахстан</OPTION>
+          <OPTION value="Украина">Украина</OPTION>
+         <OPTION value="Другое">Другое</OPTION>
+        </select>
+          <input type="Text" size=20  value="Другое">
+    </p>
+     </p></td>
+   </tr>
+
+     <tr align="center" valign="top" height="50">
+     <td><p>Адрес регистрации:<input type="Text" size=20  value=""</p></td>
+     <td><p>Адрес проживания:<input type="Text" size=20  value=""</p>
+     <br> Адреса совпадают <input type="checkbox" value="Да">Да
+     </td>
+   </tr>
+
+</table>
+     <p>
+        <input type="Reset"  name="Reset"  value="Обновить">
+        <input type="Submit" name="submit"  value="Отправить">
+    </p>
+</form>
+</body>
+</html>
